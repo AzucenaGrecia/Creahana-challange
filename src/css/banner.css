@@ -1,0 +1,20 @@
+.banner{
+  /* border: 1px solid  magenta; */
+  margin: 0px 10%;
+  padding: 72px 196px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: var(--color-gray-ligth-2);
+  border-radius: 10px;
+}
+.banner h2{
+  margin-bottom: 24px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
+  color: var(--color-black);
+}

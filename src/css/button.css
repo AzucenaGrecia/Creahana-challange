@@ -1,0 +1,22 @@
+.white-button{
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 16px;
+  padding: 12px 24px;
+  border: 3px solid var(--color-black-two);
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+.black-button{
+  font-style: normal;
+  color: var(--color-white) ;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 12px 24px;
+  border-radius: 10px;
+  background-color: var(--color-black-two);
+  letter-spacing: 0.4px;
+}
